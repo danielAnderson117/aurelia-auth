@@ -44,9 +44,9 @@ export class AuthService {
       content = arguments[0];
     } else {
       content = {
-        'displayName': displayName,
         'email': email,
-        'password': password
+        'password': password,
+        'password_confirmation': password    
       };
     }
 
