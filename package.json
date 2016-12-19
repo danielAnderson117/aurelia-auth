@@ -8,9 +8,9 @@
     "authentication",
     "auth"
   ],
-  "homepage": "https://github.com/paulvanbladel/aurelia-auth#readme",
+  "homepage": "https://github.com/danielAnderson117/aurelia-auth#readme",
   "bugs": {
-    "url": "https://github.com/paulvanbladel/aurelia-auth/issues"
+    "url": "https://github.com/danielAnderson117/aurelia-auth/issues"
   },
   "license": "MIT",
   "author": "paul van bladel",
@@ -18,7 +18,7 @@
   "typings": "dist/aurelia-auth.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulvanbladel/aurelia-auth.git"
+    "url": "git+https://github.com/danielAnderson117/aurelia-auth.git"
   },
   "jspm": {
     "registry": "npm",
