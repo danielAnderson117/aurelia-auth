@@ -37,7 +37,7 @@ export class AuthService {
     this.auth.setToken(Object.defineProperty( {}, this.config.tokenName, { value: token } ));
   }
 
-  signup(displayName, email, password) {
+  signup(email, password) {
     let signupUrl = this.auth.getSignupUrl();
     let content;
     if (typeof arguments[0] === 'object') {
